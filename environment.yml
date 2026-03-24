@@ -1,0 +1,12 @@
+name: nerfstudio
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.8
+  - cuda-toolkit
+  - ffmpeg
+  - jaxtyping
+  - colmap=3.8
+  - wget
+prefix: /home/efe/anaconda3/envs/nerfstudio

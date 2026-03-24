@@ -1,0 +1,11 @@
+method,setting,Mean Train Time,PSNR,SSIM,LPIPS
+nerfacto_indoor/gamma,bonzai_pro_gamma_perc_10,0h 25m 23s,25.52 ± 1.25,0.842 ± 0.045,0.127 ± 0.032
+nerfacto_indoor/gamma,bonzai_pro_gamma_perc_20,0h 25m 20s,22.87 ± 1.47,0.762 ± 0.043,0.185 ± 0.029
+nerfacto_indoor/gamma,bonzai_pro_gamma_perc_30,0h 25m 20s,21.19 ± 1.54,0.720 ± 0.048,0.218 ± 0.035
+nerfacto_indoor/gamma,bonzai_pro_gamma_perc_40,0h 25m 20s,18.99 ± 1.82,0.664 ± 0.066,0.264 ± 0.052
+nerfacto_indoor/gamma,bonzai_pro_gamma_perc_50,0h 25m 28s,16.75 ± 1.67,0.605 ± 0.062,0.311 ± 0.049
+splatfacto_indoor/gamma,bonzai_pro_gamma_perc_10,0h 10m 19s,29.10 ± 1.45,0.877 ± 0.047,0.111 ± 0.033
+splatfacto_indoor/gamma,bonzai_pro_gamma_perc_20,0h 10m 12s,25.19 ± 1.57,0.790 ± 0.045,0.176 ± 0.030
+splatfacto_indoor/gamma,bonzai_pro_gamma_perc_30,0h 10m 5s,22.65 ± 1.65,0.743 ± 0.050,0.214 ± 0.037
+splatfacto_indoor/gamma,bonzai_pro_gamma_perc_40,0h 10m 2s,19.68 ± 2.09,0.678 ± 0.071,0.268 ± 0.056
+splatfacto_indoor/gamma,bonzai_pro_gamma_perc_50,0h 9m 51s,16.92 ± 1.74,0.608 ± 0.064,0.325 ± 0.051

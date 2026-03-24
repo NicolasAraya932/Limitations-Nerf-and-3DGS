@@ -1,0 +1,3 @@
+method,setting,Mean Train Time,PSNR,SSIM,LPIPS
+nerfacto_indoor/hemisphere,bonzai_pro_hemisphere,0h 19m 20s,27.51 ± 0.33,0.926 ± 0.004,0.062 ± 0.004
+splatfacto_indoor/hemisphere,bonzai_pro_hemisphere,0h 10m 14s,33.95 ± 0.33,0.965 ± 0.001,0.041 ± 0.002

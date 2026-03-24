@@ -1,0 +1,11 @@
+method,scene,Mean Train Time,PSNR,SSIM,LPIPS
+nerfacto_indoor,bonzai_pro_pose_rot0.005_trans0.005,0h 22m 38s,21.72 ± 0.31,0.617 ± 0.009,0.394 ± 0.009
+nerfacto_indoor,bonzai_pro_pose_rot0.015_trans0.015,0h 22m 40s,18.32 ± 0.29,0.498 ± 0.007,0.596 ± 0.007
+nerfacto_indoor,bonzai_pro_pose_rot0.01_trans0.01,0h 22m 42s,19.57 ± 0.32,0.540 ± 0.008,0.525 ± 0.009
+nerfacto_indoor,bonzai_pro_pose_rot0.025_trans0.025,0h 22m 41s,16.63 ± 0.23,0.443 ± 0.007,0.670 ± 0.005
+nerfacto_indoor,bonzai_pro_pose_rot0.02_trans0.02,0h 22m 42s,17.45 ± 0.27,0.470 ± 0.006,0.638 ± 0.006
+splatfacto_indoor,bonzai_pro_pose_rot0.005_trans0.005,0h 8m 36s,22.56 ± 0.37,0.662 ± 0.010,0.260 ± 0.007
+splatfacto_indoor,bonzai_pro_pose_rot0.015_trans0.015,0h 8m 15s,19.10 ± 0.31,0.567 ± 0.007,0.415 ± 0.009
+splatfacto_indoor,bonzai_pro_pose_rot0.01_trans0.01,0h 8m 22s,20.25 ± 0.34,0.595 ± 0.008,0.355 ± 0.007
+splatfacto_indoor,bonzai_pro_pose_rot0.025_trans0.025,0h 8m 6s,17.85 ± 0.25,0.539 ± 0.006,0.492 ± 0.011
+splatfacto_indoor,bonzai_pro_pose_rot0.02_trans0.02,0h 8m 8s,18.37 ± 0.27,0.551 ± 0.007,0.459 ± 0.010

@@ -1,0 +1,11 @@
+method,setting,Mean Train Time,PSNR,SSIM,LPIPS
+nerfacto_outdoor/gamma,garden_pro_gamma_perc_10,0h 19m 13s,22.61 ± 0.99,0.669 ± 0.025,0.261 ± 0.020
+nerfacto_outdoor/gamma,garden_pro_gamma_perc_20,0h 19m 21s,20.96 ± 0.80,0.630 ± 0.029,0.296 ± 0.020
+nerfacto_outdoor/gamma,garden_pro_gamma_perc_30,0h 19m 25s,19.63 ± 1.32,0.603 ± 0.038,0.322 ± 0.025
+nerfacto_outdoor/gamma,garden_pro_gamma_perc_40,0h 19m 27s,18.05 ± 1.25,0.560 ± 0.036,0.361 ± 0.026
+nerfacto_outdoor/gamma,garden_pro_gamma_perc_50,0h 19m 23s,16.30 ± 1.55,0.504 ± 0.046,0.404 ± 0.032
+splatfacto_outdoor/gamma,garden_pro_gamma_perc_10,0h 20m 51s,24.75 ± 0.96,0.792 ± 0.028,0.155 ± 0.020
+splatfacto_outdoor/gamma,garden_pro_gamma_perc_20,0h 20m 15s,22.26 ± 1.19,0.737 ± 0.040,0.204 ± 0.027
+splatfacto_outdoor/gamma,garden_pro_gamma_perc_30,0h 19m 43s,20.10 ± 1.68,0.686 ± 0.052,0.249 ± 0.038
+splatfacto_outdoor/gamma,garden_pro_gamma_perc_40,0h 19m 14s,17.81 ± 1.86,0.625 ± 0.051,0.307 ± 0.040
+splatfacto_outdoor/gamma,garden_pro_gamma_perc_50,0h 18m 45s,15.42 ± 1.49,0.551 ± 0.047,0.370 ± 0.037

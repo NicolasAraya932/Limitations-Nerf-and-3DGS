@@ -1,0 +1,11 @@
+method,blur_level,Mean Train Time,PSNR,SSIM,LPIPS
+nerfacto_motion_blur_img,indoor_blur_10,0h 23m 2s,27.47 ± 0.26,0.902 ± 0.006,0.092 ± 0.008
+nerfacto_motion_blur_img,indoor_blur_20,0h 23m 9s,26.94 ± 0.38,0.881 ± 0.012,0.122 ± 0.013
+nerfacto_motion_blur_img,indoor_blur_30,0h 23m 6s,26.52 ± 0.28,0.865 ± 0.010,0.144 ± 0.012
+nerfacto_motion_blur_img,indoor_blur_40,0h 22m 59s,26.53 ± 0.15,0.858 ± 0.008,0.157 ± 0.010
+nerfacto_motion_blur_img,indoor_blur_50,0h 23m 10s,26.26 ± 0.17,0.845 ± 0.010,0.177 ± 0.011
+splatfacto_motion_blur_img,indoor_blur_10,0h 11m 12s,32.25 ± 0.20,0.944 ± 0.006,0.069 ± 0.007
+splatfacto_motion_blur_img,indoor_blur_20,0h 11m 12s,31.02 ± 0.47,0.922 ± 0.012,0.098 ± 0.014
+splatfacto_motion_blur_img,indoor_blur_30,0h 11m 14s,30.18 ± 0.37,0.906 ± 0.010,0.122 ± 0.013
+splatfacto_motion_blur_img,indoor_blur_40,0h 11m 10s,29.72 ± 0.24,0.896 ± 0.008,0.136 ± 0.009
+splatfacto_motion_blur_img,indoor_blur_50,0h 11m 10s,29.16 ± 0.31,0.883 ± 0.008,0.156 ± 0.010

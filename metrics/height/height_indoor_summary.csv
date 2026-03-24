@@ -1,0 +1,13 @@
+method,level,Mean Train Time,PSNR,SSIM,LPIPS
+nerfacto_indoor/height,level_1,0h 26m 6s,24.70 ± 0.26,0.872 ± 0.004,0.102 ± 0.003
+nerfacto_indoor/height,level_2,0h 26m 6s,24.00 ± 0.28,0.816 ± 0.006,0.167 ± 0.005
+nerfacto_indoor/height,level_3,0h 26m 15s,23.55 ± 0.27,0.808 ± 0.006,0.163 ± 0.004
+nerfacto_indoor/height,level_4,0h 26m 7s,24.49 ± 0.28,0.816 ± 0.004,0.170 ± 0.004
+nerfacto_indoor/height,level_5,0h 26m 9s,24.66 ± 0.37,0.832 ± 0.014,0.118 ± 0.006
+nerfacto_indoor/height,level_6,0h 26m 17s,25.21 ± 0.86,0.892 ± 0.018,0.096 ± 0.033
+splatfacto_indoor/height,level_1,0h 8m 5s,28.41 ± 0.25,0.925 ± 0.002,0.089 ± 0.005
+splatfacto_indoor/height,level_2,0h 8m 7s,24.93 ± 0.14,0.867 ± 0.001,0.128 ± 0.003
+splatfacto_indoor/height,level_3,0h 8m 4s,25.86 ± 0.27,0.862 ± 0.003,0.129 ± 0.003
+splatfacto_indoor/height,level_4,0h 8m 2s,26.73 ± 0.28,0.863 ± 0.001,0.141 ± 0.003
+splatfacto_indoor/height,level_5,0h 8m 5s,26.41 ± 0.16,0.902 ± 0.002,0.101 ± 0.003
+splatfacto_indoor/height,level_6,0h 8m 6s,29.85 ± 0.20,0.929 ± 0.002,0.089 ± 0.003

@@ -1,0 +1,9 @@
+method,setting,Mean Train Time,PSNR,SSIM,LPIPS
+nerfacto_indoor/reduced_img,bonzai_manhattan_pro_reduced_img_2,0h 25m 3s,26.72 ± 0.16,0.906 ± 0.002,0.082 ± 0.002
+nerfacto_indoor/reduced_img,bonzai_manhattan_pro_reduced_img_3,0h 25m 0s,26.43 ± 0.23,0.887 ± 0.003,0.102 ± 0.004
+nerfacto_indoor/reduced_img,bonzai_manhattan_pro_reduced_img_4,0h 24m 55s,25.51 ± 0.35,0.865 ± 0.005,0.127 ± 0.004
+nerfacto_indoor/reduced_img,bonzai_manhattan_pro_reduced_img_5,0h 25m 6s,24.95 ± 0.21,0.849 ± 0.005,0.139 ± 0.003
+splatfacto_indoor/reduced_img,bonzai_manhattan_pro_reduced_img_2,0h 8m 14s,31.96 ± 0.09,0.953 ± 0.000,0.054 ± 0.001
+splatfacto_indoor/reduced_img,bonzai_manhattan_pro_reduced_img_3,0h 8m 14s,30.11 ± 0.11,0.933 ± 0.001,0.075 ± 0.001
+splatfacto_indoor/reduced_img,bonzai_manhattan_pro_reduced_img_4,0h 8m 13s,28.02 ± 0.14,0.911 ± 0.001,0.103 ± 0.002
+splatfacto_indoor/reduced_img,bonzai_manhattan_pro_reduced_img_5,0h 8m 18s,27.56 ± 0.27,0.911 ± 0.001,0.102 ± 0.002

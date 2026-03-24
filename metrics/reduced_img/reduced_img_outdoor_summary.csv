@@ -1,0 +1,9 @@
+method,setting,Mean Train Time,PSNR,SSIM,LPIPS
+nerfacto_outdoor/reduced_img,garden_manhattan_pro_reduced_img_2,0h 17m 29s,23.99 ± 0.12,0.705 ± 0.003,0.230 ± 0.003
+nerfacto_outdoor/reduced_img,garden_manhattan_pro_reduced_img_3,0h 17m 17s,22.11 ± 0.43,0.646 ± 0.003,0.251 ± 0.002
+nerfacto_outdoor/reduced_img,garden_manhattan_pro_reduced_img_4,0h 17m 28s,23.59 ± 0.24,0.695 ± 0.003,0.224 ± 0.003
+nerfacto_outdoor/reduced_img,garden_manhattan_pro_reduced_img_5,0h 17m 23s,22.87 ± 0.20,0.646 ± 0.003,0.246 ± 0.004
+splatfacto_outdoor/reduced_img,garden_manhattan_pro_reduced_img_2,0h 20m 3s,26.67 ± 0.04,0.830 ± 0.001,0.117 ± 0.000
+splatfacto_outdoor/reduced_img,garden_manhattan_pro_reduced_img_3,0h 19m 53s,23.52 ± 0.75,0.737 ± 0.010,0.166 ± 0.012
+splatfacto_outdoor/reduced_img,garden_manhattan_pro_reduced_img_4,0h 20m 6s,25.12 ± 0.06,0.786 ± 0.002,0.137 ± 0.002
+splatfacto_outdoor/reduced_img,garden_manhattan_pro_reduced_img_5,0h 19m 49s,23.68 ± 0.13,0.722 ± 0.003,0.162 ± 0.002
