@@ -185,7 +185,7 @@ def option_c(data: dict, out_dir: str) -> None:
     for k, (ax, family) in enumerate(zip(axes.flat, PAPER_ORDER)):
         a, b = draw_family(ax, family, data)
         lo, hi = min(lo, a), max(hi, b)
-        ax.set_title(f"({'abcdef'[k]}) {FAMILY_NAME[family]}", fontsize=LABEL_FS, pad=2)
+        ax.set_title(f"({'abcdef'[k]}) {FAMILY_NAME[family]}", fontsize=LABEL_FS, pad=5)
     for ax in axes[:, 0]:
         ax.set_ylabel(TITLE)
     pad = 0.04 * (hi - lo)
