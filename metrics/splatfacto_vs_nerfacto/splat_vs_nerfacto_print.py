@@ -124,6 +124,7 @@ def draw_family(ax, family: str, data: dict) -> tuple[float, float]:
     ax.set_xticklabels(["GT"] + list(ticks[1]))
     ax.set_xlabel(FAMILY_XLABEL[family])
     ax.tick_params(axis="both", which="both", direction="in", top=True, right=True)
+    ax.margins(x=0.08)
     return min(lows), max(highs)
 
 
@@ -188,8 +189,9 @@ def option_c(data: dict, out_dir: str) -> None:
         ax.set_title(f"({'abcdef'[k]}) {FAMILY_NAME[family]}", fontsize=LABEL_FS, pad=5)
     for ax in axes[:, 0]:
         ax.set_ylabel(TITLE)
-    pad = 0.04 * (hi - lo)
-    axes[0, 0].set_ylim(lo - pad, hi + pad)
+    # Extra headroom on top so the highest points clear the inward top ticks.
+    span = hi - lo
+    axes[0, 0].set_ylim(lo - 0.05 * span, hi + 0.10 * span)
     h, l = legend_handles(with_gt=True)
     fig.legend(h, l, loc="outside upper center", ncol=4, frameon=False,
                handletextpad=0.2, columnspacing=1.0)
